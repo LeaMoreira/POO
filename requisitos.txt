@@ -1,0 +1,6 @@
+el proyecto debe estar
+° documentado
+° uso de git
+° uso de git hub
+° diagramas uml (clases)
+° lenguaje (python, java)
