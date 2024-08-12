@@ -1,0 +1,38 @@
+{
+    "usuarios": {
+      "leandro": {
+        "coco": 7,
+        "batman": 2,
+        "barbie": 8,
+        "blade": 1
+      },
+      "gustavo": {
+        "coco": 4,
+        "batman": 6,
+        "barbie": 7,
+        "blade": 9
+      },
+      "gonzalo": {
+        "batman": 9,
+        "blade": 6
+      }
+    },
+    "peliculas": {
+      "coco": {
+        "notas": [7, 4, 0],
+        "promedio": 5.5
+      },
+      "batman": {
+        "notas": [5, 6, 9],
+        "promedio": 6.67
+      },
+      "barbie": {
+        "notas": [8, 7, 0],
+        "promedio": 7.5
+      },
+      "blade": {
+        "notas": [5, 6, 0],
+        "promedio": 5.5
+      }
+    }
+  }
