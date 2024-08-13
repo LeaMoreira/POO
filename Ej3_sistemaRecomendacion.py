@@ -120,7 +120,7 @@ def recommend_Movies(data, target_User):
 
         user_Data = data["usuarios"][user]
         for movie, rating in user_Data.items():
-            if movie not in user_Rating:
+            if movie not in user_Rating or user_Rating[movie] == 0:
                 if movie not in movie_Scores:
                     movie_Scores[movie] = 0
                     total_Similarity[movie] = 0
